@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#484848</color>
+    <color name="colorAccent">@color/colorSecondary</color>
+
+    <color name="colorSecondary">#e0e0e0</color>
+    <color name="colorSecondaryDark">#aeaeae</color>
+    <color name="colorSecondaryLight">#ffffff</color>
+
+
+    <color name="transistor_red">#FFE53935</color>
+    <color name="transistor_red_dark">#FFB71C1C</color>
+
+    <color name="transistor_grey">#FF99918A</color>
+    <color name="transistor_grey_light">#FFBFBBB8</color>
+    <color name="transistor_grey_lighter">#FFDDDBD9</color>
+    <color name="transistor_grey_very_light">#FFEFEDEB</color>
+    <color name="transistor_grey_dark">#FF2C2926</color>
+    <color name="textColorSecondary">#000000</color>
+    <color name="textColorPrimary">#000000</color>
+
+    <color name="transistor_gold">#FFE6BA64</color>
+    <color name="transistor_gold_light">#FFE6C687</color>
+    <color name="transistor_gold_lighter">#FFFFE3B6</color>
+    <color name="transistor_gold_dark">#FFCC9933</color>
+
+    <color name="transistor_white">#ffffff</color>
+
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+</resources>

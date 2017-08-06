@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "370564017653",
+    "firebase_url": "https://open-quran-radio.firebaseio.com",
+    "project_id": "open-quran-radio",
+    "storage_bucket": "open-quran-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370564017653:android:9421904bb09ccb87",
+        "android_client_info": {
+          "package_name": "net.malah.open.quranradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370564017653-gsaf88c8420h8k9u0dkbohq9i391ph53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.malah.open.quranradio",
+            "certificate_hash": "d78401dae4923b829a00a7604fb2d3c3a9d78b3d"
+          }
+        },
+        {
+          "client_id": "370564017653-bhollqlhtbicv19dtqduusbumqcn2tol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.malah.open.quranradio",
+            "certificate_hash": "e737b0dc20bd522ac20598b009cc3061f127e62c"
+          }
+        },
+        {
+          "client_id": "370564017653-0jv1oshta1rku6buqmd8jqbtii6ekc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRIVK76_x1YHk2GDElkQG5Kh0tmZ3yAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370564017653-0jv1oshta1rku6buqmd8jqbtii6ekc1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

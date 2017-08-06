@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/menu_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/search"
+        app:showAsAction="collapseActionView|ifRoom" />
+    <item
+        android:id="@+id/menu_timer"
+        android:icon="@drawable/ic_timer_white_24dp"
+        android:title="@string/menu_timer"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="@string/menu_add"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:title="View Type"
+        android:visible="false">
+        <menu>
+            <item
+                android:id="@+id/menu_grid_view"
+                android:icon="@drawable/ic_grid_on_black_24dp"
+                android:title="@string/grid_view"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/menu_list_view"
+                android:icon="@drawable/ic_view_headline_black_24dp"
+                android:title="@string/list_view"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/menu_about"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_howto"
+        android:title="@string/menu_howto"
+        android:visible="false"
+        app:showAsAction="never" />
+
+</menu>
